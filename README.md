@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p  align="center">
+    
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=mazidan77&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazidan77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 <hr>
 <h2 align="center">💹 Most Popular Repos 💹</h2>
 <br>
