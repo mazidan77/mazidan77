@@ -20,3 +20,19 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=mazidan77&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazidan77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<hr>
+<h2 align="center">💹 Most Popular Repos 💹</h2>
+<br>
+<p align="center">
+<a href="https://github.com/mazidan77/weather">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mazidan77&repo=mazidan77/weather&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
+  
+<a href="https://github.com/mazidan77/ITI-MVC-TASKS">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mazidan77&repo=ITI-MVC-TASKS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
+</p>
+
+<hr>
+
