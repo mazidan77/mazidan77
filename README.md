@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
 <a href="https://github.com/mazidan77/weather">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mazidan77&repo=mazidan77/weather&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mazidan77&repo=weather&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
   
 <a href="https://github.com/mazidan77/ITI-MVC-TASKS">
