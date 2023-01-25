@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=mazidan77" alt="HalemoGPA"/>       
+</p>
 
 <!--
 **mazidan77/mazidan77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
